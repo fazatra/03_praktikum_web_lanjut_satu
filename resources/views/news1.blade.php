@@ -1,0 +1,1 @@
+<h1>Ini Page News 2</h1>
